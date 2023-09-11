@@ -1,4 +1,3 @@
-
 #ifndef GWO_WOLVES_PACK_H
 #define GWO_WOLVES_PACK_H
 
