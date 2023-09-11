@@ -6,7 +6,7 @@
 #include "gwo.h"
 #include "functions.h"
 
-/* Control Parameters of ABC algorithm */
+/* Control Parameters of GWO algorithm */
 const int solutionNumber = 10;
 const int dimension = 5;
 const int maxCycles = 100;
