@@ -10,6 +10,7 @@ To build and run one can use CMakeLists.txt as follows:
 $ cmake --version
 ```
 and if needed replace line cmake_minimum_required(VERSION 3.22) in CMakeLists.txt. 
+
 2. From the folder project run:
 ```bash
 $ cmake ./
