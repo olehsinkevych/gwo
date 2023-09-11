@@ -19,7 +19,7 @@ $ cmake ./
 ```bash
 $ cmake --build .
 ```
-4. Ready to run file _gwo_ will be generated
+4. Ready to run file _gwo_ will be generated.
 ## Experiment
-You may test alredy provided functions or write your own and place it in functions.c.
+You may test already provided functions or write your own and place it in functions.c.
 Input parameters are hardcoded in main.c, but a better way is to use some config file.
