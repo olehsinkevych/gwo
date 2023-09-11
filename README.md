@@ -11,7 +11,7 @@ $ cmake --version
 ```
 and if needed replace line cmake_minimum_required(VERSION 3.22) in CMakeLists.txt. 
 
-2. From the folder project run:
+2. From the project folder run:
 ```bash
 $ cmake ./
 ```
