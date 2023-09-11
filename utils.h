@@ -1,4 +1,3 @@
-
 #ifndef GWO_UTILS_H
 #define GWO_UTILS_H
 
